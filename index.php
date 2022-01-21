@@ -9,7 +9,7 @@
 <body>
     <h2>Ejemplos con funciones y estructuras de control</h2>
     <?php
-    require_once("repositorio.php");
+    require_once("libreria.php");
     echo "<h3>Ejercicio 1</h3>";
     $resultado=transformar("un texto");
     echo $resultado;
